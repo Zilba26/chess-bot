@@ -1,7 +1,7 @@
 module.exports= {
     TOKEN : "",
     PREFIX : "?",
-    DBCONNECTION : "mongodb+srv://Zilba:basile26@cluster0.weibr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    DBCONNECTION : "",
     DEFAULTSETTINGS: {
         prefix: "?",
         logChannel: "Aucun channel enregistré",
