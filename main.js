@@ -37,4 +37,4 @@ loadEvents();
 
 client.mongoose.init();
 
-client.login("ODY2MDQxMTU5NTQ0MzQwNDgw.YPMxrg.6f3BwLSO8yljQLQ5mOdRG17wSqE");
+client.login("");
